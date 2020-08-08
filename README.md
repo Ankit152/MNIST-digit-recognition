@@ -1,5 +1,9 @@
 # MNIST Digit Recognizer
 
+<p align="center">
+  <img src="https://github.com/Ankit152/MNIST-digit-recognition/blob/master/numbers.png"/>
+</p>
+
 Dataset link: https://www.kaggle.com/c/digit-recognizer/data
 
 ## Overview
